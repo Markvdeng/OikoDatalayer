@@ -2,4 +2,5 @@ window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'step_1_open_account',
   username: 'lukas_mueller_2024' // User's username
+  user_id: '59204059595' // unique ID assigned to user
 });
