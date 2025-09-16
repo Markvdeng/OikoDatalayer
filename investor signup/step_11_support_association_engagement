@@ -1,0 +1,7 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'step_11_support_association_engagement',
+  email: 'lukas.mueller2024@gmail.com',
+  user_id: '59204059595', // unique ID assigned to user
+  association_engagement: 'skip' //skip, interested, or more_info
+});
