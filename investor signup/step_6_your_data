@@ -3,11 +3,11 @@ window.dataLayer.push({
   event: 'step_6_your_data',
   email: 'lukas.mueller2024@gmail.com',
   user_id: '59204059595', // unique ID assigned to user
-  first_name: 'just_me',
-  last_name: 'just_me',
+  first_name: 'lukas',
+  last_name: 'mueller',
   country: 'NL',
-  street: 'just_me',
-  city: 'just_me',
-  postal_code: 'just_me',
-  city: 'just_me'
+  street: 'muellerstrasse',
+  city: 'muellerstadt',
+  postal_code: '123PL',
+  phone_number: '123456789'
 });
