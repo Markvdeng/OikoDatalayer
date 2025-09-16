@@ -1,1 +1,5 @@
-step_2_verify_email
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'step_3_email_verified',
+  email: 'lukas.mueller2024' // User's email (can be hashed):
+});
