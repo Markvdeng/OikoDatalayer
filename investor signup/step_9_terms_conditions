@@ -1,0 +1,6 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'step_9_terms_conditions',
+  email: 'lukas.mueller2024@gmail.com',
+  user_id: '59204059595' // unique ID assigned to user
+});
