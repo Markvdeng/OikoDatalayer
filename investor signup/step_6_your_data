@@ -1,0 +1,11 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'step_6_your_data',
+  email: 'lukas.mueller2024@gmail.com',
+  user_id: '59204059595', // unique ID assigned to user
+  first_name: 'just_me', // just_me or joint
+  last_name: 'just_me', // just_me or joint
+  country_of_residence: 'NL', // 
+  account_holder: 'just_me', // just_me or joint
+  account_holder: 'just_me', // just_me or joint
+});
