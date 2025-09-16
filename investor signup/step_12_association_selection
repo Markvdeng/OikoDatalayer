@@ -1,0 +1,7 @@
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'step_12_association_selection',
+  email: 'lukas.mueller2024@gmail.com',
+  user_id: '59204059595', // unique ID assigned to user
+  association_selection: 'Westdeutscher_forderkreise' //the regional support association selected
+});
