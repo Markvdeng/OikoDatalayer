@@ -1,6 +1,5 @@
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'step_1_open_account',
-  username: 'lukas.mueller2024' // User's username
-  new_customer: 'true'
+  username: 'lukas_mueller_2024' // User's username
 });
