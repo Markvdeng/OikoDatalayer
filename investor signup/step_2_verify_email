@@ -1,6 +1,5 @@
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'step_2_verify_email',
-  username: 'lukas.mueller2024' // User's email (can be hashed): 
-  new_customer: 'true'
+  email: 'lukas.mueller2024' // User's email (can be hashed):
 });
